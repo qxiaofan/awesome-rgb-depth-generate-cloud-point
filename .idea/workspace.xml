@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0c1f0ba-7789-41e9-a6c0-5ad1b8af2e77" name="Default Changelist" comment="" />
+    <list default="true" id="c0c1f0ba-7789-41e9-a6c0-5ad1b8af2e77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
+            <state relative-caret-position="459">
               <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
             </state>
           </provider>
@@ -49,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/include/pcl-1.8/pcl/io/impl/pcd_io.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
+            <state relative-caret-position="12609">
               <caret line="467" selection-start-line="467" selection-end-line="467" />
             </state>
           </provider>
@@ -58,7 +60,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -76,10 +78,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1970" />
-    <option name="y" value="113" />
+    <option name="x" value="1792" />
+    <option name="y" value="147" />
     <option name="width" value="1592" />
-    <option name="height" value="844" />
+    <option name="height" value="872" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -87,23 +89,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="generate_pointcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="generatePointCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../55_2_5D_map/plottrajactory/CMakeLists.txt" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -144,17 +137,17 @@
       <updated>1589194935118</updated>
       <workItem from="1589194936597" duration="1611000" />
       <workItem from="1589201911123" duration="3925000" />
+      <workItem from="1589250923494" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5536000" />
+    <option name="totallyTimeSpent" value="5571000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="1665" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24488698" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2208589" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -169,7 +162,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" weight="0.33055267" />
+      <window_info active="true" anchor="bottom" id="CMake" order="12" visible="true" weight="0.33055267" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -180,17 +173,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/include/pcl-1.8/pcl/io/impl/pcd_io.hpp">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="467" selection-start-line="467" selection-end-line="467" />
+        <state relative-caret-position="459">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file:///usr/local/include/pcl-1.8/pcl/io/impl/pcd_io.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+        <state relative-caret-position="12609">
+          <caret line="467" selection-start-line="467" selection-end-line="467" />
         </state>
       </provider>
     </entry>
